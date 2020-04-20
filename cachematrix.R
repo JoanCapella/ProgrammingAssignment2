@@ -3,7 +3,6 @@
 ## Put comments here that give an overall description of what your functions do
 
 ## Write a short comment describing this function
-##this function blablabla
 makeCacheMatrix <- function(x = matrix()) {
 # I want to generate the inverse of a matrix x (i) and cache it
 # I set variable x of the parental environment as y
